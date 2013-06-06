@@ -1,0 +1,6 @@
+git config http.postBuffer 209715200
+export GIT_SSL_NO_VERIFY=true
+
+
+git log
+git push origin <thelonghash>:master
