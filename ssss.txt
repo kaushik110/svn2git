@@ -1,0 +1,17 @@
+###########################################
+some important TEXT files
+###########################################
+
+git clone   --- svn checkout
+git pull  --- svn update
+git push
+
+git svn fetch -r<revision>
+git svn fetch -- all revisions
+git svn rebase  -- all since last revision
+
+
+git svn clone -r N svn://some/repo/branch/some-branch
+
+
+SELECT DISTINCT subacct_instrument_id FROM pmw_app.pmw_expiring_futures_vw
