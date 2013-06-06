@@ -2,8 +2,8 @@
 some important TEXT files
 ###########################################
 
-git clone   --- svn checkout
-git pull  --- svn update
+git clone   --- It is similar to svn checkout
+git pull  --- It is similar to svn update
 git push
 
 git svn fetch -r<revision>
