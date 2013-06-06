@@ -1,3 +1,7 @@
+###########################################
+some important TEXT files
+###########################################
+
 git clone   --- svn checkout
 git pull  --- svn update
 git push
