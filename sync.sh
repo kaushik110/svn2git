@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#############################
 # Don't use uninitialised variables
 set -u
 # Exit if there are non-zero return values
